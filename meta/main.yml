@@ -1,0 +1,21 @@
+---
+galaxy_info:
+  author: Vishal Shah
+  description: Installs R deps to run jupyter notebook with r-irkernel
+  company: BlackRock
+  license:
+    - MIT
+  min_ansible_version: 2.0
+  platforms:
+    - name: EL
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+  galaxy_tags:
+    - jupyter
+    - r
+    - r-irkernel
+
+dependencies: []
