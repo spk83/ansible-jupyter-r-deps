@@ -3,3 +3,4 @@ jupyter_r_deps_pkgs:
   - gcc
   - gcc-gfortran
   - dejavu-fonts-common
+  - libXrender
