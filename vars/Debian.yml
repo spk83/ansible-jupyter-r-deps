@@ -4,3 +4,4 @@ jupyter_r_deps_pkgs:
   - gfortran
   - fonts-dejavu
   - libxrender1
+  - libpng12-0
